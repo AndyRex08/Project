@@ -1,0 +1,165 @@
+body {
+    margin: none;
+}
+
+header{
+    height: auto;
+    margin-left: none;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 4vh;
+    padding-bottom: 2vh;
+}
+
+.name {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: -3vh;
+    padding-left: 2vw;
+}
+
+.nav {
+    margin-left: 26vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.nav ul{
+    display: flex;
+    padding-left: 12vw;
+    border-right: 1px solid rgb(70, 67, 67);
+}
+
+.nav li{
+    padding: 0px 20px;
+    list-style-type: none;
+    font-size: 21px;
+    font-weight: 550;
+}
+
+.whatsapp {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 2vw;
+    margin-top: 1vh;
+    padding-right: 2vw;
+}
+
+.whatsapp img{
+    height: 40px;
+    padding-left: 1vw;
+}
+
+.number {
+    padding-left: 1vw;
+    margin-top: -2vh;
+    font-size: 16px;
+}
+
+.number p{
+    line-height: 1vh;
+}
+
+.contain {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.text {
+    width: 40vw;
+    height: 70vw;
+    padding-left: 2vw;
+}
+
+.service {
+    width: 35vw;
+}
+
+.service h4{
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.service button {
+    height: 6vh;
+    width: 15vw;
+    font-size: 25px;
+    color: white;
+    margin-top: -7vh;
+    margin-bottom: 10vh;
+    background-color: orangered;
+    border: none;
+    border-radius: 15px;
+}
+
+.open {
+    display: flex;
+}
+
+.open img {
+    height: 4vh;
+    width: 2.5vw;
+    padding-right: 1vw;
+}
+
+.day {
+    margin-top: -2vh;
+    line-height: 1vh;
+}
+
+
+.image {
+    margin-left: 10vw;
+    background-image: url(Image.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 80vh;
+    width: 40vw;
+}
+
+.quick {
+    height: 9vh;
+    width: 16vw;
+    background-color: rgba(255, 255, 255, 0.277);
+    border-radius: 50px;
+    margin-top: 10vh;
+    margin-left: -1vw;
+
+}
+
+.quickserve {
+    padding-top: -0.5px;
+}
+
+.quickservice {
+    height: 8vh;
+    width: 15vw;
+    background-color: white;
+    border-radius: 50px;
+    margin-left: 12px;
+    display: flex;
+}
+
+.hour {
+    margin-left: 1vw;
+    margin-top: 1vh;
+    height: 7vh;
+    width: 7vh;
+    align-content: center;
+    background-color: red;
+    border-radius: 5vh;
+    text-align: center;
+}
+
+.hour p{
+    margin-top: 3vh;
+    margin-left: -1vw;
+}
+
+.quickservice p{
+    margin-top: 3vh;
+    padding-left: 1vw;
+    font-size: 18px;
+}
