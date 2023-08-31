@@ -19,7 +19,8 @@ header{
 }
 
 .nav {
-    margin-left: 26vw;
+    margin-top: -2vh;
+    margin-left: 10vw;
     display: flex;
     flex-wrap: wrap;
 }
