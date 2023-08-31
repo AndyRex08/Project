@@ -14,7 +14,6 @@ header{
 .name {
     font-size: 30px;
     font-weight: bold;
-    margin-top: -3vh;
     padding-left: 2vw;
 }
 
@@ -70,6 +69,7 @@ header{
     width: 40vw;
     height: 60vw;
     padding-left: 2vw;
+    margin-top: -5vh;
 }
 
 .service {
@@ -111,6 +111,7 @@ header{
 
 .image {
     margin-left: 10vw;
+    margin-top: -5vh;
     background-image: url(Image.jpg);
     background-repeat: no-repeat;
     background-size: contain;
@@ -138,7 +139,6 @@ header{
     background-color: white;
     border-radius: 50px;
     margin-left: 9px;
-    margin-top: 1vh;
     display: flex;
 }
 
