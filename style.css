@@ -41,14 +41,14 @@ header{
     display: flex;
     flex-wrap: wrap;
     height: 80px;
-    margin-left: 2vw;
-    margin-top: 1vh;
-    padding-right: 2vw;
+    margin-left: 20px;
+    margin-top: 9px;
+    padding-right: 20px;
 }
 
 .whatsapp img{
     height: 40px;
-    padding-left: 1vw;
+    padding-left: 10px;
 }
 
 .number {
@@ -72,13 +72,13 @@ header{
 }
 
 .text {
-    width: 40vw;
-    height: 60vw;
+    width: 700px;
+    height: 800px;
     padding-left: 30px;
 }
 
 .service {
-    width: 35vw;
+    width: 600px;
 }
 
 .service h4{
@@ -87,12 +87,12 @@ header{
 }
 
 .service button {
-    height: 6vh;
-    width: 15vw;
+    height: 70px;
+    width: 230px;
     font-size: 25px;
     color: white;
-    margin-top: -7vh;
-    margin-bottom: 10vh;
+    margin-top: -70px;
+    margin-bottom: 90px;
     background-color: orangered;
     border: none;
     border-radius: 15px;
@@ -109,14 +109,14 @@ header{
 }
 
 .day {
-    margin-top: -20px;
+    margin-top: -24px;
     line-height: 20px;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 
 .image {
-    margin-left: 8vw;
+    margin-left: 100px;
     background-image: url(Image.jpg);
     background-repeat: no-repeat;
     background-size: contain;
@@ -125,26 +125,25 @@ header{
 }
 
 .quick {
-    height: 11vh;
-    width: 16.5vw;
+    height: 95px;
+    width: 290px;
     background-color: rgba(255, 255, 255, 0.43);
     border-radius: 50px;
-    margin-top: 10vh;
-    margin-left: -1.5vw;
+    margin-top: 80px;
+    margin-left: -25px;
 }
 
 .quickserve {
-    padding-top: 1px;
-    padding-left: 0.2vw;
+    padding-top: 8px;
+    padding-left: 4px;
 }
 
 .quickservice {
-    height: 9vh;
-    width: 15vw;
+    height: 80px;
+    width: 260px;
     background-color: white;
     border-radius: 50px;
     margin-left: 9px;
-    margin-top: 1vh;
     display: flex;
 }
 
@@ -172,26 +171,26 @@ header{
 
 
 .rate {
-    height: 11vh;
-    width: 16.5vw;
+    height: 100px;
+    width: 290px;
     background-color: rgba(255, 255, 255, 0.43);
     border-radius: 50px;
     margin-top: 40vh;
-    margin-left: 400px;
+    margin-left: 410px;
 }
 
 .starrating {
     padding-top: 1px;
-    margin-left: 0.4px;
+    margin-left: 5px;
 }
 
 .starrate {
-    height: 9vh;
-    width: 15vw;
+    height: 83px;
+    width: 260px;
     background-color: white;
     border-radius: 50px;
     margin-left: 9px;
-    margin-top: 1vh;
+    margin-top: 8px;
     display: flex;
     line-height: 20px;
 }
@@ -211,5 +210,5 @@ header{
 .starrate img {
     margin-top: 20px;
     width: 9vw;
-    height: 3.5vh;
+    height: 30px;
 }
